@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @springchild
 - 👀 I’m interested in learning languages and messing with stuff
 - 🌱 I’m currently learning front-end development + data analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 springchild/springchild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
